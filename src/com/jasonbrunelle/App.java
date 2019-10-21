@@ -52,7 +52,22 @@ public class App {
     public static void main(String[] args) {
         int[] arr = readIntArrayFromFile("input10.txt");
 
+        //Uncomment the line below to test that implementation
+
+        //MergeSort.mergeSort(arr);
+        //BubbleSort.bubbleSort(arr);
+        //QuickSort.quickSort(arr);
+        SelectionSort.selectionSort(arr);
         System.out.println(Arrays.toString(arr));
         System.out.println(testArrInOrder(arr) ? "Array in order" : "Array NOT in order");
+        int find = 60;
+        int first = BinarySearch.first(arr, find);
+        int last = BinarySearch.last(arr, find);
+        int nonRecur = BinarySearch.binarySearch(arr, find);
+        int recur = BinarySearch.binarySearchRecursive(arr, find);
+        System.out.println("First occurence of " + find + " is " + first + "(" + arr[first] + ")\nPrevious element: " + arr[first-1]);
+        System.out.println("Last occurence of " + find + " is " + last + "(" + arr[last] + ")\nNext element: " + arr[last+1]);
+        System.out.println("Random occurence of " + find + "(non-recursive) is " + nonRecur + "(" + arr[nonRecur] + ")");
+        System.out.println("Random occurence of " + find + "(recursive) is " + recur + "(" + arr[recur] + ")");
     }
 }
