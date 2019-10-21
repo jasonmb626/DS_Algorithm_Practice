@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="903f51b7-b720-475b-8e75-6b083c8f9955" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/com/jasonbrunelle/BinarySearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/jasonbrunelle/BubbleSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/jasonbrunelle/MergeSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/jasonbrunelle/QuickSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/jasonbrunelle/SelectionSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jasonbrunelle/App.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +44,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/com/jasonbrunelle/MergeSort.java" />
   </component>
   <component name="RecentsManager">
@@ -183,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571678676427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implemented JUnit test cases for all.">
+      <created>1571690545361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571690545361</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +205,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup complete" />
     <MESSAGE value="Implemented all sorts and searches." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implemented all sorts and searches." />
+    <MESSAGE value="Implemented JUnit test cases for all." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented JUnit test cases for all." />
   </component>
 </project>
