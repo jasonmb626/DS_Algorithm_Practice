@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="903f51b7-b720-475b-8e75-6b083c8f9955" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jasonbrunelle/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jasonbrunelle/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jasonbrunelle/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jasonbrunelle/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jasonbrunelle/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jasonbrunelle/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jasonbrunelle/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jasonbrunelle/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jasonbrunelle/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jasonbrunelle/SelectionSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
